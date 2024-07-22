@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">menu asqueiroso</string>
+    <string name="home">home</string>
+    <string name="informa_o">informação</string>
+    <string name="informação" />
+    <string name="settings">settings</string>
+    <string name="info">info</string>
+</resources>
